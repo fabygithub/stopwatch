@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.c6e5c846.css",
-    "main.js": "/static/js/main.fce7bbff.js",
-    "index.html": "/index.html",
-    "main.c6e5c846.css.map": "/static/css/main.c6e5c846.css.map",
-    "main.fce7bbff.js.map": "/static/js/main.fce7bbff.js.map"
+    "main.css": "/fabygithub/stopwatch/static/css/main.c6e5c846.css",
+    "main.js": "/fabygithub/stopwatch/static/js/main.fce7bbff.js",
+    "index.html": "/fabygithub/stopwatch/index.html",
+    "main.c6e5c846.css.map": "/fabygithub/stopwatch/static/css/main.c6e5c846.css.map",
+    "main.fce7bbff.js.map": "/fabygithub/stopwatch/static/js/main.fce7bbff.js.map"
   },
   "entrypoints": [
     "static/css/main.c6e5c846.css",
